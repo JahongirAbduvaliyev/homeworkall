@@ -1,0 +1,44 @@
+.container{
+    width: 1200px;
+    height: 800px;
+    margin: auto;
+    display: flex;
+    text-align: center ;
+    background-color: rgb(123, 156, 241);
+
+}
+.box{
+   
+   width: 150px;
+   height: 50px; 
+   margin-top: 50px;
+   margin-left: 25.5px;
+   background-color: rgb(209, 195, 222);
+   position: relative;
+   left: 48S0px;
+}
+.something{
+    width: 555px;
+    height: 300px;
+    background-color: aliceblue;
+    display: flex;
+    margin:  auto;
+    margin-right: 350px;
+   
+    text-align: center;
+
+   
+}
+img {
+    width: 50px;
+}
+.sun{
+  width: 223px;
+  height: 249px;
+  margin-top: 30px;
+}
+.clouvd{
+    margin-top: 30px;
+    width: 223px;
+  height: 249px
+}
